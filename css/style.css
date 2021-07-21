@@ -83,6 +83,10 @@ a:hover{
   left: 183px;
   bottom: 293px;
 }
+.mountain{
+  position: realtive;
+  margin: -5px;
+}
 .profile-pic {
   margin: 10px;
   width: 190px;
